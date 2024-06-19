@@ -1,7 +1,8 @@
-![dgdidfa-0a46e71a-b401-4b73-ac6c-80627deb1503](https://github.com/unknownXsoldier/unknownXsoldier/assets/62778226/0dd231e9-ff3d-48a6-9343-2db81a8d97d1)
-<h1 align="center">Hi! I'm Alaa, Welcome! </h1>
+![dgdidfa-0a46e71a-b401-4b73-ac6c-80627deb1503-ezgif com-crop](https://github.com/unknownXsoldier/unknownXsoldier/assets/62778226/82f6d4bb-c080-41b3-ba04-3d82699eed71)
 
-</br>
+<h1 align="center">Hi! I'm Rodrigo, nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h3 align="center">I'm a Computer Engineering Student.</h3>
+
 
 ## 🙋‍♂️ About me
 + I'm a Computer Engineering student from beykent university.</br>
