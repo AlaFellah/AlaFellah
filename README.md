@@ -1,12 +1,8 @@
 ![dgdidfa-0a46e71a-b401-4b73-ac6c-80627deb1503-ezgif com-crop](https://github.com/unknownXsoldier/unknownXsoldier/assets/62778226/82f6d4bb-c080-41b3-ba04-3d82699eed71)
 
-<h1 align="center">Hi! I'm Rodrigo, nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<h3 align="center">I'm a Computer Engineering Student.</h3>
+<h1 align="center">Hi! I'm Alaa, Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h3 align="center">I'm a Computer Engineering student,</br> passionate about learning and exploring the world of programming beyond the classroom.</h3>
 
-
-## 🙋‍♂️ About me
-+ I'm a Computer Engineering student from beykent university.</br>
-+ I'm  currently learning python.
 
 
 ## 💡 My stacks
