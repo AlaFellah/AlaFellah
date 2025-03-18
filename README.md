@@ -7,15 +7,24 @@
 
 ## 💡 My stacks
 <div align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="width: 36px; height: 36px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 36px; height: 36px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 36px; height: 36px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 36px; height: 36px;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="width: 36px; height: 36px;"/>
-<img src="https://www.svgrepo.com/show/184143/java.svg" style="width: 36px; height: 36px;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" style="width: 36px; height: 36px;"/>
-
-
+<!-- python -->
+  <img src="https://skillicons.dev/icons?i=python" alt="python" width="50" height="50" style="margin: 10px;"/> 
+<!-- html -->
+    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="50" height="50" style="margin: 10px;"/> 
+<!-- CSS -->  
+    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="50" height="50" style="margin: 10px;"/> 
+<!-- JavaScript -->  
+    <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="50" height="50" style="margin: 10px;"/> 
+<!-- mysql -->  
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50" height="50" style="margin: 10px;"/> 
+<!-- C++ --> 
+    <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="50" height="50" style="margin: 10px;"/> 
+<!-- C -->   
+    <img src="https://skillicons.dev/icons?i=c" alt="c" width="50" height="50" style="margin: 10px;"/> 
+<!-- java --> 
+     <img src="https://skillicons.dev/icons?i=java" alt="c" width="50" height="50" style="margin: 10px;"/> 
+<!-- git -->
+     <img src="https://skillicons.dev/icons?i=git" alt="c" width="50" height="50" style="margin: 10px;"/> 
 </div>
 
 
